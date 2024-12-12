@@ -29,6 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>
 
 ---
@@ -38,12 +41,15 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CarlosMario123&theme=tokyonight&margin-w=15&margin-h=15&column=6" height="170" alt="Trophy" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMario123&bg_color=0d1117&color=03DAC6&line=BB86FC&point=03DAC6&area=true&hide_border=true" height="250" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=CarlosMario123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Badge Coffee" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Badge Love" />
 </div>
 
 ---
@@ -51,5 +57,18 @@
 <h3 align="center">✨ Lenguajes & Tecnologías en Detalle</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,python,fastapi,flask,html,css,mysql,mongodb,nodejs,express" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,python,fastapi,flask,html,css,mysql,mongodb,nodejs,express,docker,git,vscode" alt="Skills" />
+</div>
+
+---
+
+<h3 align="center">📚 Proyectos Destacados</h3>
+
+<div align="center">
+  <a href="https://github.com/CarlosMario123/simuladorEstacionamiento">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMario123&repo=simuladorEstacionamiento&theme=tokyonight" height="130" alt="Simulador Estacionamiento" />
+  </a>
+  <a href="https://github.com/CarlosMario123/machine-learning-playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMario123&repo=machine-learning-playground&theme=tokyonight" height="130" alt="Machine Learning Playground" />
+  </a>
 </div>
