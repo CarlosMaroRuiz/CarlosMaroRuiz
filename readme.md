@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosMario123&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMario123&layout=compact&theme=radical&langs_count=6" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosMaroRuiz&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMaroRuiz&layout=compact&theme=radical&langs_count=6" height="170" alt="Top Languages" />
 </div>
 
 ---
@@ -35,9 +35,9 @@
 <h2 align="center">📊 Mi Actividad Reciente</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosMario123&theme=radical&margin-w=15&margin-h=15&column=6" height="180" alt="Trophy" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMario123&bg_color=0d1117&color=00FFF0&line=FF00FF&point=00FFF0&area=true&hide_border=true" height="250" alt="Activity Graph" />
-  <img src="https://streak-stats.demolab.com?user=CarlosMario123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosMaroRuiz&theme=radical&margin-w=15&margin-h=15&column=6" height="180" alt="Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMaroRuiz&bg_color=0d1117&color=00FFF0&line=FF00FF&point=00FFF0&area=true&hide_border=true" height="250" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=CarlosMaroRuiz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
 </div>
 
 ---
