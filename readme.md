@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFF0&center=true&vCenter=true&width=800&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Soy+Carlos+Mario+Ruiz+Pinacho;Explorador+de+tecnología+futurista">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFF0&center=true&vCenter=true&width=800&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Soy+Carlos+Mario+Ruiz+Pinacho;Dev+Software">
   </a>
 </h1>
 
