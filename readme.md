@@ -12,7 +12,7 @@
 
 <!-- ROLE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_WEB DEVELOPER-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/💻_WEB DEVELOPER-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Web Developer"/>
   <img src="https://img.shields.io/badge/🚀_Problem_Solver-FF00FF?style=for-the-badge&labelColor=1a1b27" alt="Problem Solver"/>
   <img src="https://img.shields.io/badge/🔍_Code_Craftsman-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Code Craftsman"/>
 </p>
@@ -201,6 +201,82 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- GLOW DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
+</div>
+
+<!-- LLM PROJECTS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3ohzdKlRCJWHPxUuFW/giphy.gif" width="30" alt="AI">
+  Explorando Agentes IA
+</h2>
+
+<p align="center">
+  <i>Aprendiendo sobre el mundo de los agentes de IA y LLMs</i>
+</p>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <td width="50%">
+        <h3 align="center">EduCalifica</h3>
+        <p align="center">
+          <a href="https://github.com/CarlosMaroRuiz/agent_evaluator">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=agent_evaluator&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="agent_evaluator" />
+          </a>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+            <img src="https://img.shields.io/badge/LLM-FF00FF?style=flat-square&logoColor=white" width="40" height="20" />
+            Sistema de evaluación académica con IA multimodal
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">SQLite Assistant</h3>
+        <p align="center">
+          <a href="https://github.com/CarlosMaroRuiz/SQLiteAssistant">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=SQLiteAssistant&theme=tokyonight&border_color=FF00FF&bg_color=1a1b27&border_radius=10" height="150" alt="SQLiteAssistant" />
+          </a>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+            <img src="https://img.shields.io/badge/LLM-00FFF0?style=flat-square&logoColor=white" width="40" height="20" />
+            Asistente IA para consultas y gestión de bases de datos SQLite
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" colspan="2">
+        <h3 align="center">MCP LaTeX Basic</h3>
+        <p align="center">
+          <a href="https://github.com/CarlosMaroRuiz/MCP_LATEX_BASIC">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=MCP_LATEX_BASIC&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="MCP_LATEX_BASIC" />
+          </a>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+            <img src="https://img.shields.io/badge/LLM-FF00FF?style=flat-square&logoColor=white" width="40" height="20" />
+            Agente para la generación y formateo de documentos LaTeX
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <div style="margin-top: 15px; padding: 10px; border-radius: 10px; background-color: rgba(0, 255, 240, 0.1); border: 1px solid #00FFF0; max-width: 80%;">
+    <h4 align="center" style="margin: 0;">Stack para Agentes IA que estoy aprendiendo</h4>
+    <p align="center" style="margin: 5px 0;">
+      <img src="https://img.shields.io/badge/PydanticAI-00FFF0?style=flat-square&logo=python&logoColor=white" alt="PydanticAI"/>
+      <img src="https://img.shields.io/badge/FastMCP-FF00FF?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP"/>
+      <img src="https://img.shields.io/badge/Gemini-00FFF0?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/DeepSeek-FF00FF?style=flat-square&logo=openai&logoColor=white" alt="DeepSeek"/>
+    </p>
+    <p align="center" style="font-size: 0.9em; opacity: 0.8;">
+      Comenzando mi viaje en la creación de agentes inteligentes que puedan procesar múltiples tipos de datos.
+    </p>
+  </div>
 </div>
 
 <!-- GLOW DIVIDER -->
