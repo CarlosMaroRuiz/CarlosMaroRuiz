@@ -114,7 +114,7 @@
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">📚 Aprende SQLAlchemy</h3>
-          <p style="color: #768A96; margin: 8px 0;">Recurso educativo integral con ejemplos prácticos y mejores prácticas para dominar el ORM SQLAlchemy desde cero.</p>
+          <p style="color: #768A96; margin: 8px 0;">Recurso educativo  para  dominar el ORM SQLAlchemy desde cero a travez de una practica.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
             <img src="https://img.shields.io/badge/SQLAlchemy-768A96?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"/>
@@ -125,7 +125,7 @@
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">🔧 PyWebScripting</h3>
-          <p style="color: #768A96; margin: 8px 0;">Herramientas de automatización web usando Python para tareas repetitivas y scraping de datos.</p>
+          <p style="color: #768A96; margin: 8px 0;">Herramientas de automatización de creacion de proyecto web con flask y fastAPi.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
             <img src="https://img.shields.io/badge/Web_Scraping-768A96?style=flat-square&logo=python&logoColor=white" alt="Web Scraping"/>
@@ -149,7 +149,7 @@
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">⚛️ Vara Template Hooks</h3>
-          <p style="color: #768A96; margin: 8px 0;">Documentación y plantillas para React hooks personalizados con ejemplos prácticos de implementación.</p>
+          <p style="color: #768A96; margin: 8px 0;">Documentación y plantillas para React hooks para conexion de smart contracts personalizados con ejemplos prácticos de implementación.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/React-29353C?style=flat-square&logo=react&logoColor=white" alt="React"/>
             <img src="https://img.shields.io/badge/JavaScript-768A96?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
