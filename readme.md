@@ -1,10 +1,10 @@
-<!-- CABECERA PROFESIONAL -->
 <div align="center">
-  <h1 style="color: #29353C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 300; font-size: 2.5rem; margin-bottom: 0.5rem;">Carlos Mario Ruiz Pinacho</h1>
+  <h1 style="color: #29353C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 300; font-size: 2.5rem; margin-bottom: 0.5rem;">Carlos Mario Ruiz.</h1>
   <h3 style="color: #768A96; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; margin-top: 0;">Frontend Developer & Entusiasta de IA</h3>
   
   <div style="display: inline-block; margin: 20px 0; padding: 1px; background: linear-gradient(90deg, #768A96, #AAC7D8); border-radius: 25px;">
     <div style="background: #DFEBF6; padding: 12px 24px; border-radius: 24px;">
+      <span style="color: #768A96; margin: 0 8px;">•</span>
       <span style="color: #44576D; font-weight: 500;">Desarrollo Frontend</span>
       <span style="color: #768A96; margin: 0 8px;">•</span>
       <span style="color: #44576D; font-weight: 500;">Aprendiendo usar LLM para la construccion de agentes</span>
