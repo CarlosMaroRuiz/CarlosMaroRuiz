@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #29353C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 300; font-size: 2.5rem; margin-bottom: 0.5rem;">Carlos Mario Ruiz.</h1>
-  <h3 style="color: #768A96; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; margin-top: 0;">Frontend Developer & Entusiasta de IA</h3>
+  <h3 style="color: #768A96; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; margin-top: 0;">Frontend Developer & Python Developer</h3>
   
   <div style="display: inline-block; margin: 20px 0; padding: 1px; background: linear-gradient(90deg, #768A96, #AAC7D8); border-radius: 25px;">
     <div style="background: #DFEBF6; padding: 12px 24px; border-radius: 24px;">
@@ -113,8 +113,20 @@
     <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">⚡ MotionKit</h3>
+          <p style="color: #768A96; margin: 8px 0;">Plataforma de componentes de React con Framer Motion para crear interfaces dinámicas y animaciones fluidas.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/React-29353C?style=flat-square&logo=react&logoColor=white" alt="React"/>
+            <img src="https://img.shields.io/badge/Framer_Motion-768A96?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+            <img src="https://img.shields.io/badge/TypeScript-AAC7D8?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/MotionKit" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">📚 Aprende SQLAlchemy</h3>
-          <p style="color: #768A96; margin: 8px 0;">Recurso educativo  para  dominar el ORM SQLAlchemy desde cero a travez de una practica.</p>
+          <p style="color: #768A96; margin: 8px 0;">Recurso educativo para dominar el ORM SQLAlchemy desde cero a través de una práctica.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
             <img src="https://img.shields.io/badge/SQLAlchemy-768A96?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"/>
@@ -122,19 +134,19 @@
           <p><a href="https://github.com/CarlosMaroRuiz/LearnSqlAlchemy" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">🔧 PyWebScripting</h3>
-          <p style="color: #768A96; margin: 8px 0;">Herramientas de automatización de creacion de proyecto web con flask y fastAPi.</p>
+          <p style="color: #768A96; margin: 8px 0;">Herramientas de automatización de creación de proyecto web con Flask y FastAPI.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-            <img src="https://img.shields.io/badge/Web_Scraping-768A96?style=flat-square&logo=python&logoColor=white" alt="Web Scraping"/>
+            <img src="https://img.shields.io/badge/Web_Scripting-768A96?style=flat-square&logo=python&logoColor=white" alt="Web Scripting"/>
           </div>
           <p><a href="https://github.com/CarlosMaroRuiz/PyWebScripting" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">📱 API Push Notification</h3>
@@ -146,15 +158,29 @@
           <p><a href="https://github.com/CarlosMaroRuiz/APiPushNotification" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">⚛️ Vara Template Hooks</h3>
-          <p style="color: #768A96; margin: 8px 0;">Documentación y plantillas para React hooks para conexion de smart contracts personalizados con ejemplos prácticos de implementación.</p>
+          <p style="color: #768A96; margin: 8px 0;">Documentación y plantillas para React hooks para conexión de smart contracts personalizados con ejemplos prácticos.</p>
           <div style="margin-top: 15px;">
             <img src="https://img.shields.io/badge/React-29353C?style=flat-square&logo=react&logoColor=white" alt="React"/>
             <img src="https://img.shields.io/badge/JavaScript-768A96?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
           </div>
           <p><a href="https://github.com/CarlosMaroRuiz/VaraTemplateWithHooksDocs" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: #F8FAFB; padding: 20px; border-radius: 12px; border: 1px dashed #AAC7D8; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center;">
+            <div style="color: #768A96; font-size: 2.5rem; margin-bottom: 10px;">🚀</div>
+            <h4 style="color: #44576D; margin: 15px 0 8px 0;">Más Proyectos</h4>
+            <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">Explora más proyectos en mi perfil de GitHub</p>
+            <div style="margin-top: 15px;">
+              <a href="https://github.com/CarlosMaroRuiz?tab=repositories" style="color: #44576D; text-decoration: none;">→ Ver Todos</a>
+            </div>
+          </div>
         </div>
       </td>
     </tr>
@@ -195,6 +221,24 @@
             <h4 style="color: #29353C; margin-top: 0; font-size: 1em;">🗄️ SQLite Assistant</h4>
             <p style="color: #768A96; margin: 8px 0; font-size: 0.9em;">Experimentando con LLMs para consultas en lenguaje natural a bases de datos.</p>
             <p><a href="https://github.com/CarlosMaroRuiz/SQLiteAssistant" style="color: #44576D; text-decoration: none; font-size: 0.9em;">→ Ver Proyecto</a></p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top">
+          <div style="background: #FFFFFF; padding: 15px; border-radius: 8px; border: 1px solid #E6E6E6; margin: 10px;">
+            <h4 style="color: #29353C; margin-top: 0; font-size: 1em;">📄 MCP LaTeX Server</h4>
+            <p style="color: #768A96; margin: 8px 0; font-size: 0.9em;">Servidor MCP para generar código LaTeX vía STDIO y HTTP. Automatiza la creación de documentos LaTeX sobre cualquier tema.</p>
+            <p><a href="https://github.com/CarlosMaroRuiz/MCP_LATEX_BASIC" style="color: #44576D; text-decoration: none; font-size: 0.9em;">→ Ver Proyecto</a></p>
+          </div>
+        </td>
+        <td width="50%" valign="top">
+          <div style="background: #F8FAFB; padding: 15px; border-radius: 8px; border: 1px dashed #AAC7D8; margin: 10px; display: flex; align-items: center; justify-content: center;">
+            <div style="text-align: center;">
+              <div style="color: #768A96; font-size: 2rem; margin-bottom: 8px;">🔬</div>
+              <h4 style="color: #44576D; margin: 10px 0 5px 0; font-size: 1em;">En Desarrollo</h4>
+              <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">Más experimentos con IA en camino...</p>
+            </div>
           </div>
         </td>
       </tr>
