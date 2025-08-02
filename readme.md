@@ -1,325 +1,259 @@
-<!-- HEADER WITH GRADIENT BANNER -->
+<!-- CABECERA PROFESIONAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF0,100:FF00FF&height=230&section=header&text=Carlos%20Mario%20Ruiz%20Pinacho&fontSize=42&fontAlignY=35&desc=Desarrollador%20Web&descAlignY=60&descSize=22&animation=fadeIn" alt="Header" width="100%" />
-</div>
-
-<!-- ANIMATED TYPING INTRO -->
-<h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00FFF0&center=true&vCenter=true&width=800&height=70&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Soy+Carlos+Mario+Ruiz+Pinacho;Desarrollador+WEB" alt="Typing SVG">
-  </a>
-</h1>
-
-<!-- ROLE BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💻_WEB DEVELOPER-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Web Developer"/>
-  <img src="https://img.shields.io/badge/🚀_Problem_Solver-FF00FF?style=for-the-badge&labelColor=1a1b27" alt="Problem Solver"/>
-  <img src="https://img.shields.io/badge/🔍_Code_Craftsman-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Code Craftsman"/>
-</p>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosMaroRuiz&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true&border_color=00FFF0&hide_border=false&bg_color=1a1b27&border_radius=10" height="180" alt="Stats" />
+  <h1 style="color: #29353C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 300; font-size: 2.5rem; margin-bottom: 0.5rem;">Carlos Mario Ruiz Pinacho</h1>
+  <h3 style="color: #768A96; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; margin-top: 0;">Frontend Developer & Entusiasta de IA</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMaroRuiz&layout=compact&theme=tokyonight&langs_count=8&border_color=FF00FF&hide_border=false&bg_color=1a1b27&border_radius=10" height="180" alt="Top Languages" />
-</div>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- TECH STACK SECTION -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
-  Mi Stack Tecnológico
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=for-the-badge&labelColor=1a1b27" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Backend-00FFF0?style=for-the-badge&labelColor=1a1b27" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Database-FF00FF?style=for-the-badge&labelColor=1a1b27" alt="Database"/>
-</p>
-
-<div align="center">
-  <!-- Frontend -->
-  <div style="display: inline-block; margin: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" alt="TailwindCSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="CSS3" />
-  </div>
-  
-  <br />
-  
-  <!-- Backend -->
-  <div style="display: inline-block; margin: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="FastAPI" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" width="50" alt="Flask" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50" alt="Express" />
-  </div>
-  
-  <br />
-  
-  <!-- Databases -->
-  <div style="display: inline-block; margin: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="MongoDB" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" width="50" alt="Redis" />
+  <div style="display: inline-block; margin: 20px 0; padding: 1px; background: linear-gradient(90deg, #768A96, #AAC7D8); border-radius: 25px;">
+    <div style="background: #DFEBF6; padding: 12px 24px; border-radius: 24px;">
+      <span style="color: #44576D; font-weight: 500;">Desarrollo Frontend</span>
+      <span style="color: #768A96; margin: 0 8px;">•</span>
+      <span style="color: #44576D; font-weight: 500;">Aprendiendo usar LLM para la construccion de agentes</span>
+      <span style="color: #768A96; margin: 0 8px;">•</span>
+      <span style="color: #44576D; font-weight: 500;">Cloud Computing Basic</span>
+      <span style="color: #44576D; font-weight: 500;">Python Backend</span>
+    </div>
   </div>
 </div>
 
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
+---
 
-<!-- GITHUB ACTIVITY SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git">
-  Mi Actividad en GitHub
-</h2>
+## 📈 Resumen
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosMaroRuiz&theme=tokyonight&margin-w=15&margin-h=15&column=6&no-frame=false&rank=SSS,SS,S,AAA,AA,A,B,C" height="180" alt="Trophy" />
-  
-  <br />
-  <br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMaroRuiz&bg_color=1a1b27&color=00FFF0&line=FF00FF&point=00FFF0&area=true&hide_border=false&border_color=00FFF0&radius=8" height="280" alt="Activity Graph" />
-  
-  <br />
-  <br />
-  
-  <img src="https://streak-stats.demolab.com?user=CarlosMaroRuiz&theme=tokyonight&hide_border=false&border=00FFF0&date_format=M%20j%5B%2C%20Y%5D&stroke=FF00FF&fire=FF00FF&currStreakNum=00FFF0&ring=FF00FF&currStreakLabel=00FFF0" height="180" alt="GitHub Streak" />
-</div>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- QUOTE SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" alt="Quote"> 
-  Cita Favorita
-</h2>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="100">
-        <img align="left" width="100" height="100" src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" alt="Coding Gif"/>
-      </td>
-      <td>
-        <blockquote>
-          <p><i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i></p>
-          <p align="right">— Cory House</p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- FEATURED PROJECTS SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Projects">
-  Proyectos Destacados
-</h2>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td width="50%">
-        <h3 align="center">Learn SQLAlchemy</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/LearnSqlAlchemy">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=LearnSqlAlchemy&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="LearnSqlAlchemy" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-            Guía completa para dominar SQLAlchemy con ejemplos prácticos
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">PyWebScripting</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/PyWebScripting">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=PyWebScripting&theme=tokyonight&border_color=FF00FF&bg_color=1a1b27&border_radius=10" height="150" alt="PyWebScripting" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" />
-            Herramientas de automatización web usando Python
-          </p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">API Push Notification</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/APiPushNotification">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=APiPushNotification&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="APiPushNotification" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" />
-            Sistema de notificaciones push para aplicaciones web y móviles
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Vara Template With Hooks Docs</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/VaraTemplateWithHooksDocs">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=VaraTemplateWithHooksDocs&theme=tokyonight&border_color=FF00FF&bg_color=1a1b27&border_radius=10" height="150" alt="VaraTemplateWithHooksDocs" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" />
-            Documentación y plantillas para React hooks en Vara
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- LLM PROJECTS SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3ohzdKlRCJWHPxUuFW/giphy.gif" width="30" alt="AI">
-  Explorando Agentes IA
-</h2>
-
-<p align="center">
-  <i>Aprendiendo sobre el mundo de los agentes de IA y LLMs</i>
-</p>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td width="50%">
-        <h3 align="center">EduCalifica</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/agent_evaluator">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=agent_evaluator&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="agent_evaluator" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-            <img src="https://img.shields.io/badge/LLM-FF00FF?style=flat-square&logoColor=white" width="40" height="20" />
-            Sistema de evaluación académica con IA multimodal
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">SQLite Assistant</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/SQLiteAssistant">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=SQLiteAssistant&theme=tokyonight&border_color=FF00FF&bg_color=1a1b27&border_radius=10" height="150" alt="SQLiteAssistant" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-            <img src="https://img.shields.io/badge/LLM-00FFF0?style=flat-square&logoColor=white" width="40" height="20" />
-            Asistente IA para consultas y gestión de bases de datos SQLite
-          </p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" colspan="2">
-        <h3 align="center">MCP LaTeX Basic</h3>
-        <p align="center">
-          <a href="https://github.com/CarlosMaroRuiz/MCP_LATEX_BASIC">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMaroRuiz&repo=MCP_LATEX_BASIC&theme=tokyonight&border_color=00FFF0&bg_color=1a1b27&border_radius=10" height="150" alt="MCP_LATEX_BASIC" />
-          </a>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-            <img src="https://img.shields.io/badge/LLM-FF00FF?style=flat-square&logoColor=white" width="40" height="20" />
-            Agente para la generación y formateo de documentos LaTeX
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="margin-top: 15px; padding: 10px; border-radius: 10px; background-color: rgba(0, 255, 240, 0.1); border: 1px solid #00FFF0; max-width: 80%;">
-    <h4 align="center" style="margin: 0;">Stack para Agentes IA que estoy aprendiendo</h4>
-    <p align="center" style="margin: 5px 0;">
-      <img src="https://img.shields.io/badge/PydanticAI-00FFF0?style=flat-square&logo=python&logoColor=white" alt="PydanticAI"/>
-      <img src="https://img.shields.io/badge/FastMCP-FF00FF?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP"/>
-      <img src="https://img.shields.io/badge/Gemini-00FFF0?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-      <img src="https://img.shields.io/badge/DeepSeek-FF00FF?style=flat-square&logo=openai&logoColor=white" alt="DeepSeek"/>
-    </p>
-    <p align="center" style="font-size: 0.9em; opacity: 0.8;">
-      Comenzando mi viaje en la creación de agentes inteligentes que puedan procesar múltiples tipos de datos.
-    </p>
-  </div>
-</div>
-
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="70%">
-</div>
-
-<!-- CONNECT WITH ME SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Conéctate Conmigo
-</h2>
-
-<div align="center">
-  <a href="www.linkedin.com/in/carlos-m-ruiz-a5ab17224/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFF0" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:car06ma15@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF00FF" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table>
     <tr>
       <td align="center" width="50%">
-        <a href="www.linkedin.com/in/carlos-m-ruiz-a5ab17224/">
-          <img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=CarlosMaroRuiz&show_icons=true&theme=nord&hide_title=true&count_private=true&include_all_commits=true&border_color=E6E6E6&hide_border=false&bg_color=FFFFFF&text_color=29353C&icon_color=768A96&title_color=44576D&border_radius=8" height="165" alt="Estadísticas GitHub" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMaroRuiz&layout=compact&theme=nord&langs_count=6&border_color=E6E6E6&hide_border=false&bg_color=FFFFFF&text_color=29353C&title_color=44576D&border_radius=8" height="165" alt="Lenguajes Principales" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏅 Certificaciones y Formación
+
+<div align="center">
+  <table border="0" cellspacing="15" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08); max-width: 280px;">
+          <a href="https://www.credential.net/7360dbda-15a4-4266-80cc-25c04247e421#acc.C71dkjKg" target="_blank">
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/153368177" alt="Prompt Engineering Certification" width="100" height="100" style="border-radius: 8px;"/>
+          </a>
+          <h4 style="color: #29353C; margin: 15px 0 8px 0;">Prompt Engineering</h4>
+          <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">Certificación en Ingeniería de Prompts para optimización de modelos de lenguaje</p>
+          <div style="margin-top: 12px;">
+            <img src="https://img.shields.io/badge/Verificado-29353C?style=flat-square&logo=verified&logoColor=white" alt="Verificado"/>
+          </div>
+        </div>
+      </td>
+      <td align="center" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08); max-width: 280px;">
+          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Cloud Architecting" width="100" height="100" style="border-radius: 8px;"/>
+          <h4 style="color: #29353C; margin: 15px 0 8px 0;">AWS Academy Graduate</h4>
+          <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">AWS Academy Cloud Architecting - Fundamentos de arquitectura en la nube</p>
+        </div>
+      </td>
+      <td align="center" valign="top">
+        <div style="background: #F8FAFB; padding: 20px; border-radius: 12px; border: 1px dashed #AAC7D8; max-width: 280px;">
+          <div style="color: #768A96; font-size: 2.5rem; margin-bottom: 10px;">📚</div>
+          <h4 style="color: #44576D; margin: 15px 0 8px 0;">Aprendiendo</h4>
+          <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">Formándome continuamente en:</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/React_Avanzado-768A96?style=flat-square&logo=react&logoColor=white" alt="React Avanzado"/>
+            <br/><br/>
+            <img src="https://img.shields.io/badge/Agentes_IA-AAC7D8?style=flat-square&logo=openai&logoColor=white" alt="Agentes IA"/>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### 🎨 Frontend 
+<img src="https://img.shields.io/badge/JavaScript-29353C?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-768A96?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-AAC7D8?style=flat&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-44576D?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-768A96?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/HTML5-29353C?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-768A96?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+
+### 🔧 Backend & Herramientas
+<img src="https://img.shields.io/badge/Python-29353C?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-768A96?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-AAC7D8?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Flask-44576D?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Git-768A96?style=flat&logo=git&logoColor=white" alt="Git"/>
+
+### 💾 Bases de Datos & Cloud
+<img src="https://img.shields.io/badge/MongoDB-768A96?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-AAC7D8?style=flat&logo=python&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/MySQL-44576D?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/AWS-768A96?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+</div>
+
+---
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">📚 Aprende SQLAlchemy</h3>
+          <p style="color: #768A96; margin: 8px 0;">Recurso educativo integral con ejemplos prácticos y mejores prácticas para dominar el ORM SQLAlchemy desde cero.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+            <img src="https://img.shields.io/badge/SQLAlchemy-768A96?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/LearnSqlAlchemy" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">🔧 PyWebScripting</h3>
+          <p style="color: #768A96; margin: 8px 0;">Herramientas de automatización web usando Python para tareas repetitivas y scraping de datos.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/Python-29353C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+            <img src="https://img.shields.io/badge/Web_Scraping-768A96?style=flat-square&logo=python&logoColor=white" alt="Web Scraping"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/PyWebScripting" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">📱 API Push Notification</h3>
+          <p style="color: #768A96; margin: 8px 0;">Sistema de notificaciones push para aplicaciones web y móviles con integración de servicios externos.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/Node.js-29353C?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+            <img src="https://img.shields.io/badge/JavaScript-768A96?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/APiPushNotification" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">⚛️ Vara Template Hooks</h3>
+          <p style="color: #768A96; margin: 8px 0;">Documentación y plantillas para React hooks personalizados con ejemplos prácticos de implementación.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/React-29353C?style=flat-square&logo=react&logoColor=white" alt="React"/>
+            <img src="https://img.shields.io/badge/JavaScript-768A96?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/VaraTemplateWithHooksDocs" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Explorando: Agentes IA 
+
+<div align="center" style="background: linear-gradient(135deg, #F8FAFB 0%, #DFEBF6 100%); padding: 30px; border-radius: 16px; border: 1px solid #E6E6E6; margin: 20px 0; max-width: 900px;">
+  <h3 style="color: #29353C; margin-top: 0;">🌱 Conociendo sobre agentes de IA</h3>
+  
+  <p style="color: #768A96; font-size: 1.1em; line-height: 1.6; margin: 15px 0;">
+    Como desarrollador frontend, estoy comenzando a explorar el fascinante mundo de los agentes de IA. 
+    Aunque soy principiante en esta área, estoy comprometido con el aprendizaje continuo.
+  </p>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/PydanticAI-29353C?style=for-the-badge&logo=python&logoColor=white" alt="PydanticAI"/>
+    <img src="https://img.shields.io/badge/FastMCP-768A96?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP"/>
+    <img src="https://img.shields.io/badge/Gemini_API-AAC7D8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+    <img src="https://img.shields.io/badge/DeepSeek-44576D?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek"/>
+  </div>
+
+  <div align="center">
+    <table border="0" cellspacing="10" cellpadding="0">
+      <tr>
+        <td width="50%" valign="top">
+          <div style="background: #FFFFFF; padding: 15px; border-radius: 8px; border: 1px solid #E6E6E6; margin: 10px;">
+            <h4 style="color: #29353C; margin-top: 0; font-size: 1em;">🎓 EduCalifica</h4>
+            <p style="color: #768A96; margin: 8px 0; font-size: 0.9em;">Mi primer proyecto de agente IA para evaluación académica. Aprendiendo sobre procesamiento multimodal.</p>
+            <p><a href="https://github.com/CarlosMaroRuiz/agent_evaluator" style="color: #44576D; text-decoration: none; font-size: 0.9em;">→ Ver Proyecto</a></p>
+          </div>
+        </td>
+        <td width="50%" valign="top">
+          <div style="background: #FFFFFF; padding: 15px; border-radius: 8px; border: 1px solid #E6E6E6; margin: 10px;">
+            <h4 style="color: #29353C; margin-top: 0; font-size: 1em;">🗄️ SQLite Assistant</h4>
+            <p style="color: #768A96; margin: 8px 0; font-size: 0.9em;">Experimentando con LLMs para consultas en lenguaje natural a bases de datos.</p>
+            <p><a href="https://github.com/CarlosMaroRuiz/SQLiteAssistant" style="color: #44576D; text-decoration: none; font-size: 0.9em;">→ Ver Proyecto</a></p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <p style="color: #AAC7D8; font-style: italic; font-size: 0.95em; margin: 15px 0 0 0;">
+    💡 "Cada experto fue una vez un principiante. Estoy emocionado por este viaje de aprendizaje."
+  </p>
+</div>
+
+---
+
+## 📊 Actividad de Desarrollo
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMaroRuiz&bg_color=FFFFFF&color=29353C&line=768A96&point=44576D&area=false&hide_border=false&border_color=E6E6E6&radius=8" height="280" alt="Gráfico de Actividad" />
+</div>
+
+---
+
+## 🏆 Logros
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosMaroRuiz&theme=flat&margin-w=15&margin-h=15&column=4&no-frame=true&rank=SSS,SS,S,AAA" height="150" alt="Trofeos" />
+</div>
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="20">
+    <tr>
+      <td align="center">
+        <a href="www.linkedin.com/in/carlos-m-ruiz-a5ab17224/" style="text-decoration: none;">
+          <div style="background: #0077B5; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: 500;">
+            🔗 Perfil LinkedIn
+          </div>
         </a>
       </td>
-      <td align="center" width="50%">
-        <a href="mailto:car06ma15@gmail.com">
-          <img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+      <td align="center">
+        <a href="mailto:car06ma15@gmail.com" style="text-decoration: none;">
+          <div style="background: #29353C; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: 500;">
+            ✉️ Contacto por Email
+          </div>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- FOOTER SECTION -->
-<br />
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFF0&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontAlignY=65&animation=fadeIn" alt="Footer" width="100%" />
+---
+
+<div align="center" style="margin-top: 40px; padding: 20px; background: #F8FAFB; border-radius: 12px; border-top: 3px solid #768A96;">
+  <p style="color: #768A96; font-style: italic; margin: 0;">
+    "El aprendizaje nunca agota la mente."
+  </p>
+  <p style="color: #AAC7D8; font-size: 0.9em; margin: 5px 0 0 0;">— Leonardo da Vinci</p>
   
-  <img src="https://komarev.com/ghpvc/?username=CarlosMaroRuiz&color=00FFF0&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CarlosMaroRuiz&color=768A96&style=flat-square&label=Vistas+del+Perfil" alt="Vistas del Perfil" style="margin-top: 20px;"/>
 </div>
