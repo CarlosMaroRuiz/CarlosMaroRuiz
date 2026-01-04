@@ -16,23 +16,6 @@
 
 ---
 
-## Resumen
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlosMaroRuiz&show_icons=true&theme=nord&hide_title=true&count_private=true&include_all_commits=true&border_color=E6E6E6&hide_border=false&bg_color=FFFFFF&text_color=29353C&icon_color=768A96&title_color=44576D&border_radius=8" height="165" alt="Estadísticas GitHub" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMaroRuiz&layout=compact&theme=nord&langs_count=6&border_color=E6E6E6&hide_border=false&bg_color=FFFFFF&text_color=29353C&title_color=44576D&border_radius=8" height="165" alt="Lenguajes Principales" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## Certificaciones y Formación
 
 <div align="center">
@@ -237,22 +220,6 @@
 
 ---
 
-## Actividad de Desarrollo
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMaroRuiz&bg_color=FFFFFF&color=29353C&line=768A96&point=44576D&area=false&hide_border=false&border_color=E6E6E6&radius=8" height="280" alt="Gráfico de Actividad" />
-</div>
-
----
-
-## Logros
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosMaroRuiz&theme=flat&margin-w=15&margin-h=15&column=4&no-frame=true&rank=SSS,SS,S,AAA" height="150" alt="Trofeos" />
-</div>
-
----
-
 ## Conecta Conmigo
 
 <div align="center">
@@ -269,6 +236,13 @@
         <a href="mailto:car06ma15@gmail.com" style="text-decoration: none;">
           <div style="background: #29353C; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: 500;">
             Email
+          </div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CarlosMaroRuiz" style="text-decoration: none;">
+          <div style="background: #44576D; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: 500;">
+            GitHub (87 repos)
           </div>
         </a>
       </td>
