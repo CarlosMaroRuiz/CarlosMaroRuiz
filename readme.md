@@ -115,6 +115,18 @@
     <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
+          <h3 style="color: #29353C; margin-top: 0;">RAG Stoicism</h3>
+          <p style="color: #768A96; margin: 8px 0;">Servicio RAG basado en filosofía estoica integrado como microservicio para aplicación Laravel. Arquitectura modular con FastAPI, controllers y schemas.</p>
+          <div style="margin-top: 15px;">
+            <img src="https://img.shields.io/badge/FastAPI-29353C?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+            <img src="https://img.shields.io/badge/RAG-768A96?style=flat-square&logo=openai&logoColor=white" alt="RAG"/>
+            <img src="https://img.shields.io/badge/Laravel_Integration-AAC7D8?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+          </div>
+          <p><a href="https://github.com/CarlosMaroRuiz/rag_stocism" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">Prompting en Español</h3>
           <p style="color: #768A96; margin: 8px 0;">Recursos educativos en español sobre LLMs, agentes y técnicas de prompting para IA.</p>
           <div style="margin-top: 15px;">
@@ -124,6 +136,8 @@
           <p><a href="https://github.com/CarlosMaroRuiz/prompting-es" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">DeepSeek MCP Client</h3>
@@ -135,8 +149,6 @@
           <p><a href="https://github.com/CarlosMaroRuiz/deepseek-mcp-client" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">GForms Smart Autofill</h3>
@@ -148,6 +160,8 @@
           <p><a href="https://github.com/CarlosMaroRuiz/gforms-smart-autofill" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">MotionKit</h3>
@@ -161,8 +175,6 @@
           <p><a href="https://github.com/CarlosMaroRuiz/MotionKit" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">LangMaster Game</h3>
@@ -175,6 +187,8 @@
           <p><a href="https://github.com/CarlosMaroRuiz/langmaster_game" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <div style="background: #FFFFFF; padding: 20px; border-radius: 12px; border: 1px solid #E6E6E6; box-shadow: 0 2px 8px rgba(41, 53, 60, 0.08);">
           <h3 style="color: #29353C; margin-top: 0;">RAG Services AI</h3>
@@ -186,14 +200,14 @@
           <p><a href="https://github.com/CarlosMaroRuiz/SERVICES_RAG_AI" style="color: #44576D; text-decoration: none;">→ Ver Repositorio</a></p>
         </div>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <div style="background: #F8FAFB; padding: 20px; border-radius: 12px; border: 1px dashed #AAC7D8;">
-          <h4 style="color: #44576D; margin: 15px 0 8px 0;">Más Proyectos</h4>
-          <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">English Practice with AI, FastAPI Async DB, Exam Generator, Services AI Integrator y más...</p>
-          <div style="margin-top: 15px;">
-            <a href="https://github.com/CarlosMaroRuiz?tab=repositories" style="color: #44576D; text-decoration: none;">→ Ver Todos los Repositorios (87 total)</a>
+      <td width="50%" valign="top">
+        <div style="background: #F8FAFB; padding: 20px; border-radius: 12px; border: 1px dashed #AAC7D8; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center;">
+            <h4 style="color: #44576D; margin: 15px 0 8px 0;">Más Proyectos</h4>
+            <p style="color: #768A96; font-size: 0.85em; margin: 0; line-height: 1.4;">English Practice with AI, FastAPI Async DB, Exam Generator y más...</p>
+            <div style="margin-top: 15px;">
+              <a href="https://github.com/CarlosMaroRuiz?tab=repositories" style="color: #44576D; text-decoration: none;">→ Ver Todos los Repositorios (87 total)</a>
+            </div>
           </div>
         </div>
       </td>
