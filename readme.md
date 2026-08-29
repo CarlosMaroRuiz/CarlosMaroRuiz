@@ -69,6 +69,9 @@
 <img src="https://img.shields.io/badge/Next.js-44576D?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Angular-768A96?style=flat&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/TailwindCSS-768A96?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/Vite-29353C?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/KendoReact-768A96?style=flat&logo=progress&logoColor=white" alt="KendoReact"/>
+<img src="https://img.shields.io/badge/SCSS-AAC7D8?style=flat&logo=sass&logoColor=white" alt="SCSS"/>
 
 ### Backend & AI
 <img src="https://img.shields.io/badge/Python-29353C?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -86,6 +89,10 @@
 <img src="https://img.shields.io/badge/SQLAlchemy-768A96?style=flat&logo=python&logoColor=white" alt="SQLAlchemy"/>
 <img src="https://img.shields.io/badge/AWS-29353C?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/MinIO-768A96?style=flat&logo=minio&logoColor=white" alt="MinIO"/>
+
+### Herramientas
+<img src="https://img.shields.io/badge/Git-29353C?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-768A96?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 
 </div>
 
